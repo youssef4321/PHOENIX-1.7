@@ -1,0 +1,13 @@
+chromadb
+llama-cpp-python
+duckduckgo-search
+rich
+pypdf
+PyMuPDF
+yfinance
+tiktoken
+aiohttp
+beautifulsoup4
+sentence-transformers
+edge-tts
+psutil
